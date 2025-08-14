@@ -5,4 +5,4 @@ Oii!! Eu sou a Maria, estudante de engenharia de software <img src="https://medi
 Me chamo Maria, tenho 17 anos e sou estudante de engenharia de software. Sou apaixonada por jogos mas meu interesse é atuar na área de banco de dados. 
 
 
-🔗 Me chame pelo Linkedin: <a href="https://https//www.linkedin.com/in/mariaquintelaribeiro/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Me chame pelo Linkedin: <a href="https://www.linkedin.com/in/mariaquintelaribeiro/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
